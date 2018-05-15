@@ -4,8 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-carpeta = "test/"
-numero = "4"
+carpeta = "valid/"
+numero = "2"
 
 path1 = "C:/Users/fali0/Desktop/Universidad/3º/FSI/practica_fsi/data/" + carpeta + numero
 path2 = "C:/Users/fali0/Desktop/Universidad/3º/FSI/practica_fsi/8data/" + carpeta + numero
